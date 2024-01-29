@@ -2,9 +2,15 @@
 
 ##  Listado de Entidades 
 
-### acthors **(ED)**
-
+### aUthors **(ED)**
+- author_id **(PK)**
+- name
+- lastaname 
+- email **(PK)**
+- password
+- avatar
 ### users **(ED)**
+
 
 ### collaborators **(ED)**
 
@@ -13,3 +19,7 @@
 ### acthors **(ED)**
 
 ### acthors **(ED)**
+
+### Modelo Entidad-Relación
+
+![Modelo Entidad -Relacion](./E-R-DESIGN-SYSTEM-VIDEO.png)
