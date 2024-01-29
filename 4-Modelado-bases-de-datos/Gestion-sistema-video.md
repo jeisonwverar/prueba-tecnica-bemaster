@@ -57,12 +57,12 @@
 - comment_list_id **(PK)**
 - comment_id **(FK)**
 - create_date
-## Relaciones
-1. 
+
 ## Modelo Entidad-Relación
 
 ![Modelo Entidad -Relacion](./E-R-DESIGN-SYSTEM-VIDEO.png)
-
+## Modelo MYSQL WORKBENCH
+![Modelo MYSQL](./DISEÑO-BD-MYSQL.png)
 ## Glosario
 
 - **ED**:Entidad de datos.
@@ -72,3 +72,8 @@
 - **1:1**:uno a uno.
 - **1:N**:uno a muchos.
 - **N:M**:muchos a muchos.
+
+## Nota:
+
+Se crea un archivo script creado con una base de datos relacional con el lenguaje _MYSQL_ el script esta guardado en la carpeta __4-Modalado-base-de-datos__
+
